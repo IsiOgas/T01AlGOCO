@@ -70,6 +70,8 @@ int main(int cant_argumentos, char* texto_argumento[]){
 
     if(algoritmo == "naive"){
         naive(matriz1, matriz2, matriz_resultado, n);
+    } else if(algoritmo == "strassen"){
+        //agregar funcion strassen cuando este lista :)
     } else{
         cout << "Error: Algoritmo no reconocido :C" << endl;
         return 0;
