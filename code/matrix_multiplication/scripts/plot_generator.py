@@ -4,29 +4,27 @@ import re
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
+#es lo mismo que para el plot de las array
 def parse_measurements():
     times_data = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(list))))
     mem_data = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(list))))
 
-    #itero por los txt del make run en la carpeta
     for filepath in glob.glob('../data/measurements/*.txt'):
         algo = os.path.basename(filepath).replace('.txt', '')
         
         with open(filepath, 'r') as f:
             current_filename = ""
             for line in f:
-                #leemos el nombre del archivo en la primera linea
                 if ".txt:" in line:
                     current_filename = line.split(':')[0].strip()
                 
-                #extraemos los datos en la siguiente linea
                 elif "tardo:" in line and current_filename:
                     parts = current_filename.split('_')
                     if len(parts) >= 4:
                         n = int(parts[0])
                         tipo = parts[1]
                         dominio = parts[2]
-                        #regex
+
                         time_match = re.search(r'tardo:\s*(\d+)\s*us', line)
                         mem_match = re.search(r'memoria usada:\s*(\d+)\s*KB', line)
                         
@@ -46,14 +44,14 @@ def generar_graficos(data, metrica, ylabel):
             for algo in data[tipo][dominio]:
                 ns = sorted(list(data[tipo][dominio][algo].keys()))
                 promedios = [sum(data[tipo][dominio][algo][n]) / len(data[tipo][dominio][algo][n]) for n in ns]
-                #sacamos el promedio de las 3 porq eso dice el enunciado
+
                 plt.plot(ns, promedios, marker='s', label=algo)
             
             plt.title(f'{metrica} - Matriz {tipo.capitalize()} ({dominio})')
             plt.xlabel('Dimensión de la matriz (N x N)')
             plt.ylabel(ylabel)
             
-            #usamos escala base 2 para el eje X, ya que N = 2^4, 2^6...
+            #la unica dif con el de las arrays es que uso base 2 porque son de 2 en 2 y no base 10 je 
             plt.xscale('log', base=2) 
             plt.yscale('log')
             plt.grid(True, which="both", ls="--", alpha=0.5)
