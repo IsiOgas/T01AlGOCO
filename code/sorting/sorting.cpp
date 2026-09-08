@@ -54,7 +54,7 @@ int main(int cant_argumentos, char* texto_argumento[]){
     }
     //termina el cronometro
     auto fin = chrono::steady_clock::now();
-    auto duracion = chrono::duration_cast<chrono::milliseconds>(fin - inicio);
+    auto duracion = chrono::duration_cast<chrono::microseconds>(fin - inicio);
 
     struct rusage uso_memoria;
     getrusage(RUSAGE_SELF, &uso_memoria);
@@ -69,7 +69,7 @@ int main(int cant_argumentos, char* texto_argumento[]){
     }
  
     //le quitamos el ".txt" y le pegamos el "_out.txt"
-    nombre_salida = nombre_salida.substr(0, nombre_salida.find_last_of('.')) + "_out.txt";
+    nombre_salida = nombre_salida.substr(0, nombre_salida.find_last_of('.')) + "_" + algoritmo + "_out.txt";
     ofstream archivo_salida(nombre_salida);
     if(archivo_salida.is_open()){
         for(size_t i = 0; i < arreglo.size(); i++){
@@ -81,6 +81,6 @@ int main(int cant_argumentos, char* texto_argumento[]){
         cout << "Error al crear el archivo de salida" << endl;
     }
  
-    cout << "El algoritmo " << algoritmo << " tardo: " << duracion.count() << " ms | memoria usada: " << memoria_kb << " KB" << endl;
+    cout << "El algoritmo " << algoritmo << " tardo: " << duracion.count() << " us | memoria usada: " << memoria_kb << " KB" << endl;
     return 0;
 }

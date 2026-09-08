@@ -9,6 +9,7 @@
 using namespace std;
 
 void naive(const vector<vector<int>> &a, const vector<vector<int>> &b, vector<vector<int>> &c, int n);
+vector<vector<int>> strassen(const vector<vector<int>> &A, const vector<vector<int>> &B);
 
 int main(int cant_argumentos, char* texto_argumento[]){
     // para lo de la terminal y si lo escribe mal
@@ -71,14 +72,14 @@ int main(int cant_argumentos, char* texto_argumento[]){
     if(algoritmo == "naive"){
         naive(matriz1, matriz2, matriz_resultado, n);
     } else if(algoritmo == "strassen"){
-        //agregar funcion strassen cuando este lista :)
+        matriz_resultado = strassen(matriz1, matriz2);
     } else{
         cout << "Error: Algoritmo no reconocido :C" << endl;
         return 0;
     }
     //termina el cronometro
     auto fin = chrono::steady_clock::now();
-    auto duracion = chrono::duration_cast<chrono::milliseconds>(fin - inicio);
+    auto duracion = chrono::duration_cast<chrono::microseconds>(fin - inicio);
 
     struct rusage uso_memoria;
     getrusage(RUSAGE_SELF, &uso_memoria);
@@ -91,7 +92,7 @@ int main(int cant_argumentos, char* texto_argumento[]){
     if(pos_carpeta != string::npos){
         nombre_salida.replace(pos_carpeta, string("matrix_input").length(), "matrix_output");
     }
-    nombre_salida = nombre_salida.substr(0, nombre_salida.rfind("_1.txt")) + "_out.txt";
+    nombre_salida = nombre_salida.substr(0, nombre_salida.rfind("_1.txt")) + "_" + algoritmo + "_out.txt";
     ofstream archivo_salida(nombre_salida);
     if(archivo_salida.is_open()){
         //recorremos las filas
@@ -108,7 +109,7 @@ int main(int cant_argumentos, char* texto_argumento[]){
         cout << "Error al crear el archivo de salida." << endl;
     }
  
-    cout << "El algoritmo " << algoritmo << " tardo: " << duracion.count() << " ms | memoria usada: " << memoria_kb << " KB" << endl;
+    cout << "El algoritmo " << algoritmo << " tardo: " << duracion.count() << " us | memoria usada: " << memoria_kb << " KB" << endl;
     return 0;
 }
  
