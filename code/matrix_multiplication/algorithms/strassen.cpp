@@ -98,14 +98,12 @@ vector<vector<int>> strassen(const vector<vector<int>> &A, const vector<vector<i
 
     //JUNTAR LOS 4 CUADRANTES EN LA MATRIZ FINAL (C)
     vector<vector<int>> C(n, vector<int>(n, 0));
-    for (int i = 0; i < mid; i++) {
-        for (int j = 0; j < mid; j++) {
-            // Arriba izquierda
+    for(int i = 0; i < mid; i++) {
+        for(int j = 0; j < mid; j++) {
             C[i][j] = C11[i][j];
-            // Arriba izquierda
-            C[i][j + mid] = C12[i][j];         // Arriba izquierda
-            C[i + mid][j] = C21[i][j];         // Abajo izquierda
-            C[i + mid][j + mid] = C22[i][j];   // Abajo derecha
+            C[i][j + mid] = C12[i][j];
+            C[i+mid][j] = C21[i][j];
+            C[i+mid][j + mid] = C22[i][j];
         }
     }
 
