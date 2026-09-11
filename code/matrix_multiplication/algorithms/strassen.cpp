@@ -6,7 +6,7 @@ using namespace std;
 /*
  * Algoritmo: strassen
  * Implementado por: Isidora Ogas Pavez
- * Referencia: Lógica adaptada de la web GeeksforGeeks
+ * Referencia: Lógica adaptada de la web GeeksforGeeks (https://www.geeksforgeeks.org/dsa/easy-way-remember-strassens-matrix-equation/)
  */
 
 //funcion para sumar dos matrices

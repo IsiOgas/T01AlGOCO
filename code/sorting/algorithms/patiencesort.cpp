@@ -9,7 +9,7 @@ using namespace std;
 /*
  * Algoritmo: Patience Sort
  * Implementado por: Isidora Ogas Pavez
- * Referencia: Adaptado de wikibooks (Patience Sort el de Java). pd: habia primero implementado la de GeeksforGeeks pero esa la hacia en O(n^2) y para la prueba gigante se demoraba caleta LOL Q MAL
+ * Referencia: Adaptado de wikibooks (Patience Sort el de Java) (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Patience_sort). pd: habia primero implementado la de GeeksforGeeks pero esa la hacia en O(n^2) y para la prueba gigante se demoraba caleta LOL Q MAL
  * este lo hace en O(n log n)
  */
 
