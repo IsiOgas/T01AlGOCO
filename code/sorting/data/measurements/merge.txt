@@ -1,0 +1,144 @@
+10000000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_a_merge_out.txt
+El algoritmo merge tardo: 515553 us | memoria usada: 82336 KB
+10000000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_b_merge_out.txt
+El algoritmo merge tardo: 492362 us | memoria usada: 82528 KB
+10000000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_c_merge_out.txt
+El algoritmo merge tardo: 508735 us | memoria usada: 81816 KB
+10000000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_a_merge_out.txt
+El algoritmo merge tardo: 1101842 us | memoria usada: 82420 KB
+10000000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_b_merge_out.txt
+El algoritmo merge tardo: 1127659 us | memoria usada: 82072 KB
+10000000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_c_merge_out.txt
+El algoritmo merge tardo: 1118087 us | memoria usada: 82852 KB
+10000000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 244915 us | memoria usada: 81956 KB
+10000000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 258745 us | memoria usada: 82084 KB
+10000000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 250888 us | memoria usada: 82160 KB
+10000000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 226144 us | memoria usada: 82216 KB
+10000000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 249823 us | memoria usada: 82456 KB
+10000000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 251682 us | memoria usada: 83492 KB
+10000000_descendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 276532 us | memoria usada: 83556 KB
+10000000_descendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 263343 us | memoria usada: 81684 KB
+10000000_descendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 280802 us | memoria usada: 83248 KB
+10000000_descendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 285750 us | memoria usada: 82196 KB
+10000000_descendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 329590 us | memoria usada: 83388 KB
+10000000_descendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 334992 us | memoria usada: 82024 KB
+100000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_a_merge_out.txt
+El algoritmo merge tardo: 5203 us | memoria usada: 4324 KB
+100000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_b_merge_out.txt
+El algoritmo merge tardo: 5296 us | memoria usada: 4416 KB
+100000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_c_merge_out.txt
+El algoritmo merge tardo: 5180 us | memoria usada: 4420 KB
+100000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_a_merge_out.txt
+El algoritmo merge tardo: 9729 us | memoria usada: 4420 KB
+100000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_b_merge_out.txt
+El algoritmo merge tardo: 9488 us | memoria usada: 4328 KB
+100000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_c_merge_out.txt
+El algoritmo merge tardo: 9659 us | memoria usada: 4328 KB
+100000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 2226 us | memoria usada: 4324 KB
+100000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 2422 us | memoria usada: 4316 KB
+100000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 2338 us | memoria usada: 4428 KB
+100000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 2428 us | memoria usada: 4328 KB
+100000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 2424 us | memoria usada: 4352 KB
+100000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 2390 us | memoria usada: 4336 KB
+100000_descendente_D1_a.txt: Resultado guardado en: data/array_output/100000_descendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 2342 us | memoria usada: 4348 KB
+100000_descendente_D1_b.txt: Resultado guardado en: data/array_output/100000_descendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 2349 us | memoria usada: 4344 KB
+100000_descendente_D1_c.txt: Resultado guardado en: data/array_output/100000_descendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 2383 us | memoria usada: 4316 KB
+100000_descendente_D7_a.txt: Resultado guardado en: data/array_output/100000_descendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 2341 us | memoria usada: 4300 KB
+100000_descendente_D7_b.txt: Resultado guardado en: data/array_output/100000_descendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 2336 us | memoria usada: 4352 KB
+100000_descendente_D7_c.txt: Resultado guardado en: data/array_output/100000_descendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 2350 us | memoria usada: 4328 KB
+1000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_a_merge_out.txt
+El algoritmo merge tardo: 62 us | memoria usada: 2024 KB
+1000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_b_merge_out.txt
+El algoritmo merge tardo: 52 us | memoria usada: 2016 KB
+1000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_c_merge_out.txt
+El algoritmo merge tardo: 50 us | memoria usada: 2016 KB
+1000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_a_merge_out.txt
+El algoritmo merge tardo: 66 us | memoria usada: 2024 KB
+1000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_b_merge_out.txt
+El algoritmo merge tardo: 68 us | memoria usada: 2072 KB
+1000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_c_merge_out.txt
+El algoritmo merge tardo: 66 us | memoria usada: 2068 KB
+1000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 19 us | memoria usada: 2060 KB
+1000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 20 us | memoria usada: 1992 KB
+1000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 22 us | memoria usada: 2068 KB
+1000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 20 us | memoria usada: 1992 KB
+1000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 18 us | memoria usada: 2016 KB
+1000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 17 us | memoria usada: 2068 KB
+1000_descendente_D1_a.txt: Resultado guardado en: data/array_output/1000_descendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 22 us | memoria usada: 2016 KB
+1000_descendente_D1_b.txt: Resultado guardado en: data/array_output/1000_descendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 21 us | memoria usada: 2072 KB
+1000_descendente_D1_c.txt: Resultado guardado en: data/array_output/1000_descendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 22 us | memoria usada: 2024 KB
+1000_descendente_D7_a.txt: Resultado guardado en: data/array_output/1000_descendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 18 us | memoria usada: 2020 KB
+1000_descendente_D7_b.txt: Resultado guardado en: data/array_output/1000_descendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 18 us | memoria usada: 2080 KB
+1000_descendente_D7_c.txt: Resultado guardado en: data/array_output/1000_descendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 18 us | memoria usada: 2020 KB
+10_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_a_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2076 KB
+10_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_b_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2020 KB
+10_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_c_merge_out.txt
+El algoritmo merge tardo: 3 us | memoria usada: 2016 KB
+10_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_a_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2016 KB
+10_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_b_merge_out.txt
+El algoritmo merge tardo: 7 us | memoria usada: 2060 KB
+10_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_c_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2056 KB
+10_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10_ascendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 1 us | memoria usada: 2076 KB
+10_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10_ascendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 1 us | memoria usada: 2080 KB
+10_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10_ascendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2068 KB
+10_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10_ascendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2016 KB
+10_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10_ascendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2068 KB
+10_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10_ascendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 1 us | memoria usada: 2072 KB
+10_descendente_D1_a.txt: Resultado guardado en: data/array_output/10_descendente_D1_a_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2072 KB
+10_descendente_D1_b.txt: Resultado guardado en: data/array_output/10_descendente_D1_b_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2064 KB
+10_descendente_D1_c.txt: Resultado guardado en: data/array_output/10_descendente_D1_c_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2076 KB
+10_descendente_D7_a.txt: Resultado guardado en: data/array_output/10_descendente_D7_a_merge_out.txt
+El algoritmo merge tardo: 1 us | memoria usada: 2020 KB
+10_descendente_D7_b.txt: Resultado guardado en: data/array_output/10_descendente_D7_b_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2076 KB
+10_descendente_D7_c.txt: Resultado guardado en: data/array_output/10_descendente_D7_c_merge_out.txt
+El algoritmo merge tardo: 2 us | memoria usada: 2072 KB

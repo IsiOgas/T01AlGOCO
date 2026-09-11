@@ -1,0 +1,144 @@
+1024_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 72073359 us | memoria usada: 40300 KB
+1024_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 70721005 us | memoria usada: 40264 KB
+1024_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 70236656 us | memoria usada: 40392 KB
+1024_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 71045602 us | memoria usada: 40384 KB
+1024_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 70661845 us | memoria usada: 40300 KB
+1024_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 70101542 us | memoria usada: 40376 KB
+1024_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 69983435 us | memoria usada: 40268 KB
+1024_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 72087143 us | memoria usada: 40332 KB
+1024_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 69977435 us | memoria usada: 40392 KB
+1024_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 70502847 us | memoria usada: 40304 KB
+1024_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 71146412 us | memoria usada: 40292 KB
+1024_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 71082226 us | memoria usada: 40512 KB
+1024_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 71159847 us | memoria usada: 40368 KB
+1024_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 70890112 us | memoria usada: 40328 KB
+1024_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 70624226 us | memoria usada: 40384 KB
+1024_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 71149398 us | memoria usada: 40232 KB
+1024_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 69795879 us | memoria usada: 40380 KB
+1024_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 71086985 us | memoria usada: 40396 KB
+16_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 598 us | memoria usada: 2016 KB
+16_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 611 us | memoria usada: 2020 KB
+16_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 599 us | memoria usada: 2016 KB
+16_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 590 us | memoria usada: 2016 KB
+16_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 603 us | memoria usada: 1988 KB
+16_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 612 us | memoria usada: 2068 KB
+16_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 610 us | memoria usada: 2056 KB
+16_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 664 us | memoria usada: 2076 KB
+16_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 593 us | memoria usada: 2012 KB
+16_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 600 us | memoria usada: 2072 KB
+16_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 617 us | memoria usada: 2016 KB
+16_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 589 us | memoria usada: 2076 KB
+16_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 589 us | memoria usada: 2072 KB
+16_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 680 us | memoria usada: 2068 KB
+16_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 597 us | memoria usada: 2080 KB
+16_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 603 us | memoria usada: 2016 KB
+16_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 598 us | memoria usada: 2020 KB
+16_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 599 us | memoria usada: 2064 KB
+256_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 1487910 us | memoria usada: 6068 KB
+256_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 1516208 us | memoria usada: 6064 KB
+256_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 1437800 us | memoria usada: 5980 KB
+256_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 1435201 us | memoria usada: 6072 KB
+256_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 1467853 us | memoria usada: 6048 KB
+256_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 1490808 us | memoria usada: 6036 KB
+256_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 1472307 us | memoria usada: 5980 KB
+256_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 1461757 us | memoria usada: 6052 KB
+256_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 1456928 us | memoria usada: 5996 KB
+256_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 1504729 us | memoria usada: 6068 KB
+256_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 1436269 us | memoria usada: 6084 KB
+256_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 1457202 us | memoria usada: 6068 KB
+256_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 1441014 us | memoria usada: 6076 KB
+256_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 1458378 us | memoria usada: 6072 KB
+256_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 1463099 us | memoria usada: 6188 KB
+256_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 1451745 us | memoria usada: 6048 KB
+256_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 1420520 us | memoria usada: 5972 KB
+256_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 1556579 us | memoria usada: 6192 KB
+64_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 28342 us | memoria usada: 3576 KB
+64_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 29295 us | memoria usada: 3660 KB
+64_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 28386 us | memoria usada: 3672 KB
+64_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 28718 us | memoria usada: 3608 KB
+64_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 28430 us | memoria usada: 3668 KB
+64_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 28660 us | memoria usada: 3608 KB
+64_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 29209 us | memoria usada: 3612 KB
+64_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 28305 us | memoria usada: 3708 KB
+64_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 29351 us | memoria usada: 3660 KB
+64_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 27497 us | memoria usada: 3616 KB
+64_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 28138 us | memoria usada: 3676 KB
+64_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 27901 us | memoria usada: 3700 KB
+64_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_a_strassen_out.txt
+El algoritmo strassen tardo: 27750 us | memoria usada: 3672 KB
+64_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_b_strassen_out.txt
+El algoritmo strassen tardo: 27687 us | memoria usada: 3688 KB
+64_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_c_strassen_out.txt
+El algoritmo strassen tardo: 27400 us | memoria usada: 3812 KB
+64_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_a_strassen_out.txt
+El algoritmo strassen tardo: 27996 us | memoria usada: 3696 KB
+64_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_b_strassen_out.txt
+El algoritmo strassen tardo: 28884 us | memoria usada: 3528 KB
+64_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_c_strassen_out.txt
+El algoritmo strassen tardo: 28036 us | memoria usada: 3612 KB

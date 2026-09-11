@@ -1,0 +1,144 @@
+10000000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_a_quick_out.txt
+El algoritmo quick tardo: 280850 us | memoria usada: 71080 KB
+10000000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_b_quick_out.txt
+El algoritmo quick tardo: 291721 us | memoria usada: 70736 KB
+10000000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_c_quick_out.txt
+El algoritmo quick tardo: 302668 us | memoria usada: 69576 KB
+10000000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_a_quick_out.txt
+El algoritmo quick tardo: 881854 us | memoria usada: 69628 KB
+10000000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_b_quick_out.txt
+El algoritmo quick tardo: 923627 us | memoria usada: 70200 KB
+10000000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_c_quick_out.txt
+El algoritmo quick tardo: 874680 us | memoria usada: 69436 KB
+10000000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 162625 us | memoria usada: 70068 KB
+10000000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 145307 us | memoria usada: 69960 KB
+10000000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 141026 us | memoria usada: 70396 KB
+10000000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 165459 us | memoria usada: 69264 KB
+10000000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 167445 us | memoria usada: 69164 KB
+10000000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 176257 us | memoria usada: 70512 KB
+10000000_descendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 151044 us | memoria usada: 70036 KB
+10000000_descendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 151794 us | memoria usada: 70332 KB
+10000000_descendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 157494 us | memoria usada: 70644 KB
+10000000_descendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 152926 us | memoria usada: 70220 KB
+10000000_descendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 161362 us | memoria usada: 70132 KB
+10000000_descendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 168642 us | memoria usada: 69192 KB
+100000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_a_quick_out.txt
+El algoritmo quick tardo: 2535 us | memoria usada: 3980 KB
+100000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_b_quick_out.txt
+El algoritmo quick tardo: 2350 us | memoria usada: 3968 KB
+100000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_c_quick_out.txt
+El algoritmo quick tardo: 2366 us | memoria usada: 3832 KB
+100000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_a_quick_out.txt
+El algoritmo quick tardo: 6490 us | memoria usada: 3872 KB
+100000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_b_quick_out.txt
+El algoritmo quick tardo: 6447 us | memoria usada: 3872 KB
+100000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_c_quick_out.txt
+El algoritmo quick tardo: 5920 us | memoria usada: 3892 KB
+100000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 1113 us | memoria usada: 3876 KB
+100000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 1045 us | memoria usada: 3884 KB
+100000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 1022 us | memoria usada: 3904 KB
+100000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 902 us | memoria usada: 3864 KB
+100000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 863 us | memoria usada: 3848 KB
+100000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 820 us | memoria usada: 3964 KB
+100000_descendente_D1_a.txt: Resultado guardado en: data/array_output/100000_descendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 2057 us | memoria usada: 3888 KB
+100000_descendente_D1_b.txt: Resultado guardado en: data/array_output/100000_descendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 1137 us | memoria usada: 3872 KB
+100000_descendente_D1_c.txt: Resultado guardado en: data/array_output/100000_descendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 1048 us | memoria usada: 3940 KB
+100000_descendente_D7_a.txt: Resultado guardado en: data/array_output/100000_descendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 1198 us | memoria usada: 3884 KB
+100000_descendente_D7_b.txt: Resultado guardado en: data/array_output/100000_descendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 999 us | memoria usada: 3900 KB
+100000_descendente_D7_c.txt: Resultado guardado en: data/array_output/100000_descendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 1053 us | memoria usada: 3876 KB
+1000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_a_quick_out.txt
+El algoritmo quick tardo: 25 us | memoria usada: 2080 KB
+1000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_b_quick_out.txt
+El algoritmo quick tardo: 27 us | memoria usada: 2064 KB
+1000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_c_quick_out.txt
+El algoritmo quick tardo: 25 us | memoria usada: 2016 KB
+1000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_a_quick_out.txt
+El algoritmo quick tardo: 49 us | memoria usada: 2020 KB
+1000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_b_quick_out.txt
+El algoritmo quick tardo: 46 us | memoria usada: 2024 KB
+1000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_c_quick_out.txt
+El algoritmo quick tardo: 44 us | memoria usada: 2068 KB
+1000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 15 us | memoria usada: 2080 KB
+1000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 16 us | memoria usada: 1992 KB
+1000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 16 us | memoria usada: 1992 KB
+1000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 9 us | memoria usada: 2076 KB
+1000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 9 us | memoria usada: 1988 KB
+1000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 10 us | memoria usada: 2068 KB
+1000_descendente_D1_a.txt: Resultado guardado en: data/array_output/1000_descendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 16 us | memoria usada: 2020 KB
+1000_descendente_D1_b.txt: Resultado guardado en: data/array_output/1000_descendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 42 us | memoria usada: 2020 KB
+1000_descendente_D1_c.txt: Resultado guardado en: data/array_output/1000_descendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 16 us | memoria usada: 2060 KB
+1000_descendente_D7_a.txt: Resultado guardado en: data/array_output/1000_descendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 12 us | memoria usada: 1988 KB
+1000_descendente_D7_b.txt: Resultado guardado en: data/array_output/1000_descendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 11 us | memoria usada: 1988 KB
+1000_descendente_D7_c.txt: Resultado guardado en: data/array_output/1000_descendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 11 us | memoria usada: 2016 KB
+10_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_a_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2080 KB
+10_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_b_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 1988 KB
+10_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_c_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2016 KB
+10_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_a_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2020 KB
+10_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_b_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2076 KB
+10_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_c_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2020 KB
+10_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10_ascendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2140 KB
+10_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10_ascendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2020 KB
+10_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10_ascendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2020 KB
+10_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10_ascendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2068 KB
+10_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10_ascendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 3 us | memoria usada: 2016 KB
+10_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10_ascendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2020 KB
+10_descendente_D1_a.txt: Resultado guardado en: data/array_output/10_descendente_D1_a_quick_out.txt
+El algoritmo quick tardo: 2 us | memoria usada: 2068 KB
+10_descendente_D1_b.txt: Resultado guardado en: data/array_output/10_descendente_D1_b_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2020 KB
+10_descendente_D1_c.txt: Resultado guardado en: data/array_output/10_descendente_D1_c_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2072 KB
+10_descendente_D7_a.txt: Resultado guardado en: data/array_output/10_descendente_D7_a_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2068 KB
+10_descendente_D7_b.txt: Resultado guardado en: data/array_output/10_descendente_D7_b_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2076 KB
+10_descendente_D7_c.txt: Resultado guardado en: data/array_output/10_descendente_D7_c_quick_out.txt
+El algoritmo quick tardo: 1 us | memoria usada: 2076 KB

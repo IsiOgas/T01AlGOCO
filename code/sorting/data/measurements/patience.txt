@@ -1,0 +1,144 @@
+10000000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_a_patience_out.txt
+El algoritmo patience tardo: 311237 us | memoria usada: 90516 KB
+10000000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_b_patience_out.txt
+El algoritmo patience tardo: 299213 us | memoria usada: 86156 KB
+10000000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_c_patience_out.txt
+El algoritmo patience tardo: 355210 us | memoria usada: 91932 KB
+10000000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_a_patience_out.txt
+El algoritmo patience tardo: 1781068 us | memoria usada: 102096 KB
+10000000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_b_patience_out.txt
+El algoritmo patience tardo: 1776285 us | memoria usada: 101960 KB
+10000000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_c_patience_out.txt
+El algoritmo patience tardo: 1790235 us | memoria usada: 101068 KB
+10000000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 129659 us | memoria usada: 88228 KB
+10000000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 135399 us | memoria usada: 87832 KB
+10000000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 131552 us | memoria usada: 91292 KB
+10000000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 1684555 us | memoria usada: 490608 KB
+10000000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 1476853 us | memoria usada: 489540 KB
+10000000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 1469981 us | memoria usada: 488532 KB
+10000000_descendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 121967 us | memoria usada: 111264 KB
+10000000_descendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 109474 us | memoria usada: 109052 KB
+10000000_descendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 111830 us | memoria usada: 110140 KB
+10000000_descendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 116433 us | memoria usada: 109576 KB
+10000000_descendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 115646 us | memoria usada: 110264 KB
+10000000_descendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 113821 us | memoria usada: 109904 KB
+100000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_a_patience_out.txt
+El algoritmo patience tardo: 3155 us | memoria usada: 4312 KB
+100000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_b_patience_out.txt
+El algoritmo patience tardo: 2982 us | memoria usada: 4348 KB
+100000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_c_patience_out.txt
+El algoritmo patience tardo: 3149 us | memoria usada: 4336 KB
+100000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_a_patience_out.txt
+El algoritmo patience tardo: 10595 us | memoria usada: 4420 KB
+100000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_b_patience_out.txt
+El algoritmo patience tardo: 11123 us | memoria usada: 4320 KB
+100000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_c_patience_out.txt
+El algoritmo patience tardo: 10806 us | memoria usada: 4424 KB
+100000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 1326 us | memoria usada: 4316 KB
+100000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 1331 us | memoria usada: 4420 KB
+100000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 1386 us | memoria usada: 4416 KB
+100000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 12211 us | memoria usada: 11436 KB
+100000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 12771 us | memoria usada: 11084 KB
+100000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 12875 us | memoria usada: 10932 KB
+100000_descendente_D1_a.txt: Resultado guardado en: data/array_output/100000_descendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 1021 us | memoria usada: 4332 KB
+100000_descendente_D1_b.txt: Resultado guardado en: data/array_output/100000_descendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 1113 us | memoria usada: 4432 KB
+100000_descendente_D1_c.txt: Resultado guardado en: data/array_output/100000_descendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 1303 us | memoria usada: 4280 KB
+100000_descendente_D7_a.txt: Resultado guardado en: data/array_output/100000_descendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 1115 us | memoria usada: 4332 KB
+100000_descendente_D7_b.txt: Resultado guardado en: data/array_output/100000_descendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 1146 us | memoria usada: 4420 KB
+100000_descendente_D7_c.txt: Resultado guardado en: data/array_output/100000_descendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 1111 us | memoria usada: 4312 KB
+1000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_a_patience_out.txt
+El algoritmo patience tardo: 39 us | memoria usada: 2140 KB
+1000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_b_patience_out.txt
+El algoritmo patience tardo: 37 us | memoria usada: 2060 KB
+1000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_c_patience_out.txt
+El algoritmo patience tardo: 39 us | memoria usada: 2012 KB
+1000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_a_patience_out.txt
+El algoritmo patience tardo: 81 us | memoria usada: 2072 KB
+1000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_b_patience_out.txt
+El algoritmo patience tardo: 81 us | memoria usada: 2016 KB
+1000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_c_patience_out.txt
+El algoritmo patience tardo: 82 us | memoria usada: 2064 KB
+1000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 19 us | memoria usada: 2020 KB
+1000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 19 us | memoria usada: 2020 KB
+1000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 18 us | memoria usada: 2076 KB
+1000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 92 us | memoria usada: 2064 KB
+1000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 90 us | memoria usada: 2068 KB
+1000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 91 us | memoria usada: 2020 KB
+1000_descendente_D1_a.txt: Resultado guardado en: data/array_output/1000_descendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 12 us | memoria usada: 1988 KB
+1000_descendente_D1_b.txt: Resultado guardado en: data/array_output/1000_descendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 14 us | memoria usada: 2064 KB
+1000_descendente_D1_c.txt: Resultado guardado en: data/array_output/1000_descendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 12 us | memoria usada: 2072 KB
+1000_descendente_D7_a.txt: Resultado guardado en: data/array_output/1000_descendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 14 us | memoria usada: 2072 KB
+1000_descendente_D7_b.txt: Resultado guardado en: data/array_output/1000_descendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 13 us | memoria usada: 2080 KB
+1000_descendente_D7_c.txt: Resultado guardado en: data/array_output/1000_descendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 13 us | memoria usada: 2020 KB
+10_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_a_patience_out.txt
+El algoritmo patience tardo: 4 us | memoria usada: 2016 KB
+10_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_b_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2020 KB
+10_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_c_patience_out.txt
+El algoritmo patience tardo: 4 us | memoria usada: 2064 KB
+10_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_a_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 1988 KB
+10_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_b_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2016 KB
+10_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_c_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2076 KB
+10_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10_ascendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2076 KB
+10_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10_ascendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2016 KB
+10_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10_ascendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2136 KB
+10_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10_ascendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2020 KB
+10_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10_ascendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2024 KB
+10_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10_ascendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2144 KB
+10_descendente_D1_a.txt: Resultado guardado en: data/array_output/10_descendente_D1_a_patience_out.txt
+El algoritmo patience tardo: 2 us | memoria usada: 2016 KB
+10_descendente_D1_b.txt: Resultado guardado en: data/array_output/10_descendente_D1_b_patience_out.txt
+El algoritmo patience tardo: 2 us | memoria usada: 2020 KB
+10_descendente_D1_c.txt: Resultado guardado en: data/array_output/10_descendente_D1_c_patience_out.txt
+El algoritmo patience tardo: 3 us | memoria usada: 2020 KB
+10_descendente_D7_a.txt: Resultado guardado en: data/array_output/10_descendente_D7_a_patience_out.txt
+El algoritmo patience tardo: 2 us | memoria usada: 2072 KB
+10_descendente_D7_b.txt: Resultado guardado en: data/array_output/10_descendente_D7_b_patience_out.txt
+El algoritmo patience tardo: 2 us | memoria usada: 2064 KB
+10_descendente_D7_c.txt: Resultado guardado en: data/array_output/10_descendente_D7_c_patience_out.txt
+El algoritmo patience tardo: 2 us | memoria usada: 2068 KB

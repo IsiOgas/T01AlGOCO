@@ -1,0 +1,144 @@
+10000000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_a_sort_out.txt
+El algoritmo sort tardo: 231404 us | memoria usada: 82732 KB
+10000000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_b_sort_out.txt
+El algoritmo sort tardo: 248523 us | memoria usada: 83268 KB
+10000000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D1_c_sort_out.txt
+El algoritmo sort tardo: 226091 us | memoria usada: 82844 KB
+10000000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_a_sort_out.txt
+El algoritmo sort tardo: 729154 us | memoria usada: 81560 KB
+10000000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_b_sort_out.txt
+El algoritmo sort tardo: 822396 us | memoria usada: 82376 KB
+10000000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10000000_aleatorio_D7_c_sort_out.txt
+El algoritmo sort tardo: 762182 us | memoria usada: 82592 KB
+10000000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 106848 us | memoria usada: 82924 KB
+10000000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 110742 us | memoria usada: 83452 KB
+10000000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 99727 us | memoria usada: 82308 KB
+10000000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 129574 us | memoria usada: 82856 KB
+10000000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 156682 us | memoria usada: 82516 KB
+10000000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_ascendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 137348 us | memoria usada: 81988 KB
+10000000_descendente_D1_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 100123 us | memoria usada: 83372 KB
+10000000_descendente_D1_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 106190 us | memoria usada: 82020 KB
+10000000_descendente_D1_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 103135 us | memoria usada: 83428 KB
+10000000_descendente_D7_a.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 131947 us | memoria usada: 83116 KB
+10000000_descendente_D7_b.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 121257 us | memoria usada: 83040 KB
+10000000_descendente_D7_c.txt: Resultado guardado en: data/array_output/10000000_descendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 130915 us | memoria usada: 82712 KB
+100000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_a_sort_out.txt
+El algoritmo sort tardo: 1943 us | memoria usada: 4332 KB
+100000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_b_sort_out.txt
+El algoritmo sort tardo: 1851 us | memoria usada: 4332 KB
+100000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D1_c_sort_out.txt
+El algoritmo sort tardo: 1934 us | memoria usada: 4540 KB
+100000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_a_sort_out.txt
+El algoritmo sort tardo: 5771 us | memoria usada: 4540 KB
+100000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_b_sort_out.txt
+El algoritmo sort tardo: 5333 us | memoria usada: 4320 KB
+100000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/100000_aleatorio_D7_c_sort_out.txt
+El algoritmo sort tardo: 5530 us | memoria usada: 4424 KB
+100000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 767 us | memoria usada: 4328 KB
+100000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 761 us | memoria usada: 4348 KB
+100000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 657 us | memoria usada: 4348 KB
+100000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 851 us | memoria usada: 4416 KB
+100000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 832 us | memoria usada: 4432 KB
+100000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/100000_ascendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 814 us | memoria usada: 4320 KB
+100000_descendente_D1_a.txt: Resultado guardado en: data/array_output/100000_descendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 677 us | memoria usada: 4344 KB
+100000_descendente_D1_b.txt: Resultado guardado en: data/array_output/100000_descendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 750 us | memoria usada: 4328 KB
+100000_descendente_D1_c.txt: Resultado guardado en: data/array_output/100000_descendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 740 us | memoria usada: 4424 KB
+100000_descendente_D7_a.txt: Resultado guardado en: data/array_output/100000_descendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 659 us | memoria usada: 4416 KB
+100000_descendente_D7_b.txt: Resultado guardado en: data/array_output/100000_descendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 620 us | memoria usada: 4420 KB
+100000_descendente_D7_c.txt: Resultado guardado en: data/array_output/100000_descendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 743 us | memoria usada: 4284 KB
+1000_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_a_sort_out.txt
+El algoritmo sort tardo: 23 us | memoria usada: 2080 KB
+1000_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_b_sort_out.txt
+El algoritmo sort tardo: 26 us | memoria usada: 2072 KB
+1000_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D1_c_sort_out.txt
+El algoritmo sort tardo: 20 us | memoria usada: 2064 KB
+1000_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_a_sort_out.txt
+El algoritmo sort tardo: 37 us | memoria usada: 2020 KB
+1000_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_b_sort_out.txt
+El algoritmo sort tardo: 37 us | memoria usada: 2076 KB
+1000_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/1000_aleatorio_D7_c_sort_out.txt
+El algoritmo sort tardo: 36 us | memoria usada: 2020 KB
+1000_ascendente_D1_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 8 us | memoria usada: 2076 KB
+1000_ascendente_D1_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 9 us | memoria usada: 2016 KB
+1000_ascendente_D1_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 9 us | memoria usada: 2072 KB
+1000_ascendente_D7_a.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 8 us | memoria usada: 1988 KB
+1000_ascendente_D7_b.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 8 us | memoria usada: 1992 KB
+1000_ascendente_D7_c.txt: Resultado guardado en: data/array_output/1000_ascendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 7 us | memoria usada: 2016 KB
+1000_descendente_D1_a.txt: Resultado guardado en: data/array_output/1000_descendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 8 us | memoria usada: 2016 KB
+1000_descendente_D1_b.txt: Resultado guardado en: data/array_output/1000_descendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 20 us | memoria usada: 2016 KB
+1000_descendente_D1_c.txt: Resultado guardado en: data/array_output/1000_descendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 9 us | memoria usada: 2076 KB
+1000_descendente_D7_a.txt: Resultado guardado en: data/array_output/1000_descendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 7 us | memoria usada: 2144 KB
+1000_descendente_D7_b.txt: Resultado guardado en: data/array_output/1000_descendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 6 us | memoria usada: 2020 KB
+1000_descendente_D7_c.txt: Resultado guardado en: data/array_output/1000_descendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 6 us | memoria usada: 2016 KB
+10_aleatorio_D1_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_a_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2068 KB
+10_aleatorio_D1_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_b_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2072 KB
+10_aleatorio_D1_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D1_c_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2016 KB
+10_aleatorio_D7_a.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_a_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2068 KB
+10_aleatorio_D7_b.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_b_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2080 KB
+10_aleatorio_D7_c.txt: Resultado guardado en: data/array_output/10_aleatorio_D7_c_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2072 KB
+10_ascendente_D1_a.txt: Resultado guardado en: data/array_output/10_ascendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2016 KB
+10_ascendente_D1_b.txt: Resultado guardado en: data/array_output/10_ascendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2060 KB
+10_ascendente_D1_c.txt: Resultado guardado en: data/array_output/10_ascendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2068 KB
+10_ascendente_D7_a.txt: Resultado guardado en: data/array_output/10_ascendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2020 KB
+10_ascendente_D7_b.txt: Resultado guardado en: data/array_output/10_ascendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2020 KB
+10_ascendente_D7_c.txt: Resultado guardado en: data/array_output/10_ascendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2068 KB
+10_descendente_D1_a.txt: Resultado guardado en: data/array_output/10_descendente_D1_a_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 1988 KB
+10_descendente_D1_b.txt: Resultado guardado en: data/array_output/10_descendente_D1_b_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2020 KB
+10_descendente_D1_c.txt: Resultado guardado en: data/array_output/10_descendente_D1_c_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2068 KB
+10_descendente_D7_a.txt: Resultado guardado en: data/array_output/10_descendente_D7_a_sort_out.txt
+El algoritmo sort tardo: 2 us | memoria usada: 2076 KB
+10_descendente_D7_b.txt: Resultado guardado en: data/array_output/10_descendente_D7_b_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2076 KB
+10_descendente_D7_c.txt: Resultado guardado en: data/array_output/10_descendente_D7_c_sort_out.txt
+El algoritmo sort tardo: 1 us | memoria usada: 2024 KB

@@ -1,0 +1,144 @@
+1024_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_a_naive_out.txt
+El algoritmo naive tardo: 826551 us | memoria usada: 15688 KB
+1024_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_b_naive_out.txt
+El algoritmo naive tardo: 898357 us | memoria usada: 15664 KB
+1024_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D0_c_naive_out.txt
+El algoritmo naive tardo: 872579 us | memoria usada: 15712 KB
+1024_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_a_naive_out.txt
+El algoritmo naive tardo: 856214 us | memoria usada: 15752 KB
+1024_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_b_naive_out.txt
+El algoritmo naive tardo: 826150 us | memoria usada: 15904 KB
+1024_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_densa_D10_c_naive_out.txt
+El algoritmo naive tardo: 855175 us | memoria usada: 15708 KB
+1024_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_a_naive_out.txt
+El algoritmo naive tardo: 847930 us | memoria usada: 15800 KB
+1024_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_b_naive_out.txt
+El algoritmo naive tardo: 855567 us | memoria usada: 15792 KB
+1024_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D0_c_naive_out.txt
+El algoritmo naive tardo: 883648 us | memoria usada: 15780 KB
+1024_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_a_naive_out.txt
+El algoritmo naive tardo: 866221 us | memoria usada: 15716 KB
+1024_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_b_naive_out.txt
+El algoritmo naive tardo: 908807 us | memoria usada: 15708 KB
+1024_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_diagonal_D10_c_naive_out.txt
+El algoritmo naive tardo: 864950 us | memoria usada: 15788 KB
+1024_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_a_naive_out.txt
+El algoritmo naive tardo: 866275 us | memoria usada: 15688 KB
+1024_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_b_naive_out.txt
+El algoritmo naive tardo: 865307 us | memoria usada: 15900 KB
+1024_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D0_c_naive_out.txt
+El algoritmo naive tardo: 861196 us | memoria usada: 15780 KB
+1024_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_a_naive_out.txt
+El algoritmo naive tardo: 873853 us | memoria usada: 15724 KB
+1024_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_b_naive_out.txt
+El algoritmo naive tardo: 864111 us | memoria usada: 15684 KB
+1024_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/1024_dispersa_D10_c_naive_out.txt
+El algoritmo naive tardo: 855623 us | memoria usada: 15704 KB
+16_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_a_naive_out.txt
+El algoritmo naive tardo: 6 us | memoria usada: 1992 KB
+16_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_b_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2064 KB
+16_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D0_c_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2072 KB
+16_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_a_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2068 KB
+16_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_b_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2080 KB
+16_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_densa_D10_c_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2020 KB
+16_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_a_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2024 KB
+16_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_b_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2020 KB
+16_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D0_c_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 1984 KB
+16_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_a_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2060 KB
+16_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_b_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2068 KB
+16_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_diagonal_D10_c_naive_out.txt
+El algoritmo naive tardo: 6 us | memoria usada: 2020 KB
+16_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_a_naive_out.txt
+El algoritmo naive tardo: 6 us | memoria usada: 2076 KB
+16_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_b_naive_out.txt
+El algoritmo naive tardo: 4 us | memoria usada: 2072 KB
+16_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D0_c_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2016 KB
+16_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_a_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2056 KB
+16_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_b_naive_out.txt
+El algoritmo naive tardo: 5 us | memoria usada: 2016 KB
+16_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/16_dispersa_D10_c_naive_out.txt
+El algoritmo naive tardo: 6 us | memoria usada: 2076 KB
+256_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_a_naive_out.txt
+El algoritmo naive tardo: 8281 us | memoria usada: 4148 KB
+256_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_b_naive_out.txt
+El algoritmo naive tardo: 8096 us | memoria usada: 4168 KB
+256_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D0_c_naive_out.txt
+El algoritmo naive tardo: 8120 us | memoria usada: 4148 KB
+256_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_a_naive_out.txt
+El algoritmo naive tardo: 8173 us | memoria usada: 4172 KB
+256_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_b_naive_out.txt
+El algoritmo naive tardo: 8747 us | memoria usada: 4172 KB
+256_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_densa_D10_c_naive_out.txt
+El algoritmo naive tardo: 8175 us | memoria usada: 4172 KB
+256_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_a_naive_out.txt
+El algoritmo naive tardo: 8375 us | memoria usada: 4092 KB
+256_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_b_naive_out.txt
+El algoritmo naive tardo: 8214 us | memoria usada: 4148 KB
+256_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D0_c_naive_out.txt
+El algoritmo naive tardo: 8422 us | memoria usada: 4092 KB
+256_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_a_naive_out.txt
+El algoritmo naive tardo: 9594 us | memoria usada: 4108 KB
+256_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_b_naive_out.txt
+El algoritmo naive tardo: 8442 us | memoria usada: 4100 KB
+256_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_diagonal_D10_c_naive_out.txt
+El algoritmo naive tardo: 8430 us | memoria usada: 4176 KB
+256_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_a_naive_out.txt
+El algoritmo naive tardo: 8428 us | memoria usada: 4156 KB
+256_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_b_naive_out.txt
+El algoritmo naive tardo: 8431 us | memoria usada: 4188 KB
+256_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D0_c_naive_out.txt
+El algoritmo naive tardo: 8217 us | memoria usada: 4288 KB
+256_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_a_naive_out.txt
+El algoritmo naive tardo: 8362 us | memoria usada: 4176 KB
+256_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_b_naive_out.txt
+El algoritmo naive tardo: 8360 us | memoria usada: 4084 KB
+256_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/256_dispersa_D10_c_naive_out.txt
+El algoritmo naive tardo: 8938 us | memoria usada: 4288 KB
+64_densa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_a_naive_out.txt
+El algoritmo naive tardo: 154 us | memoria usada: 2072 KB
+64_densa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_b_naive_out.txt
+El algoritmo naive tardo: 155 us | memoria usada: 2020 KB
+64_densa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D0_c_naive_out.txt
+El algoritmo naive tardo: 154 us | memoria usada: 2016 KB
+64_densa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_a_naive_out.txt
+El algoritmo naive tardo: 155 us | memoria usada: 2012 KB
+64_densa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_b_naive_out.txt
+El algoritmo naive tardo: 154 us | memoria usada: 2076 KB
+64_densa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_densa_D10_c_naive_out.txt
+El algoritmo naive tardo: 151 us | memoria usada: 2076 KB
+64_diagonal_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_a_naive_out.txt
+El algoritmo naive tardo: 160 us | memoria usada: 2020 KB
+64_diagonal_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_b_naive_out.txt
+El algoritmo naive tardo: 152 us | memoria usada: 2064 KB
+64_diagonal_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D0_c_naive_out.txt
+El algoritmo naive tardo: 156 us | memoria usada: 2076 KB
+64_diagonal_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_a_naive_out.txt
+El algoritmo naive tardo: 153 us | memoria usada: 2020 KB
+64_diagonal_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_b_naive_out.txt
+El algoritmo naive tardo: 155 us | memoria usada: 2140 KB
+64_diagonal_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_diagonal_D10_c_naive_out.txt
+El algoritmo naive tardo: 154 us | memoria usada: 2068 KB
+64_dispersa_D0_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_a_naive_out.txt
+El algoritmo naive tardo: 153 us | memoria usada: 2076 KB
+64_dispersa_D0_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_b_naive_out.txt
+El algoritmo naive tardo: 153 us | memoria usada: 2072 KB
+64_dispersa_D0_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D0_c_naive_out.txt
+El algoritmo naive tardo: 172 us | memoria usada: 2076 KB
+64_dispersa_D10_a_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_a_naive_out.txt
+El algoritmo naive tardo: 154 us | memoria usada: 2012 KB
+64_dispersa_D10_b_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_b_naive_out.txt
+El algoritmo naive tardo: 156 us | memoria usada: 2068 KB
+64_dispersa_D10_c_1.txt: Matriz resultado guardada en: data/matrix_output/64_dispersa_D10_c_naive_out.txt
+El algoritmo naive tardo: 168 us | memoria usada: 2076 KB
