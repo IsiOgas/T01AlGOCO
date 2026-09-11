@@ -7,7 +7,7 @@ Los cuatro algoritmos de ordenamiento muestran, en general, un crecimiento esper
     \centering
     \includegraphics[width=0.7\linewidth]{sections/tiempos_aleatorio_D7.png}
     \caption{Tiempo de ejecución para arreglos aleatorios (Dominio D7).}
-    \label{fig:sort_aleatorio}
+    \label{fig:sort_aleatorio_tiempo}
 \end{figure}
 
 El caso de Patience Sort es el más interesante de todos, porque su tiempo de ejecución no depende solo de la cantidad de datos ($n$), sino de qué tan desordenados vienen. Por ejemplo, en el dominio D7, para $n=10^7$, tarda cerca de 1.5 segundos (aproximadamente 1543796 us) en el caso ascendente, pero solo del orden de cientos de milisegundos en el caso descendente, una diferencia que no se observa en ningún otro algoritmo. 
@@ -19,7 +19,7 @@ En cuanto al uso de memoria, QuickSort es consistentemente el más eficiente, co
     \centering
     \includegraphics[width=0.7\linewidth]{sections/memoria_aleatorio_D7.png}
     \caption{Tiempo de ejecución para arreglos aleatorios (Dominio D7).}
-    \label{fig:sort_aleatorio}
+    \label{fig:sort_aleatorio_mem}
 \end{figure}
 
 Un caso particular es \texttt{std::sort}: pese a ser \textit{in-place}, su consumo de memoria es similar al de MergeSort, porque la función \texttt{sortArray} recibe el arreglo original, pero luego retorna una copia completa, disparando el uso de memoria de forma artificial.
