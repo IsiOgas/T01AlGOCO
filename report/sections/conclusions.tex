@@ -1,5 +1,3 @@
-\begin{mdframed}
-    \textbf{La extensión máxima para esta sección es un párrafo breve (máximo 1/4 de página).}
-\end{mdframed}
+    Como vimos en los resultados, la complejidad teórica casi siempre predice bien lo que pasa en la practica: MergeSort, QuickSort y \texttt{std::sort} escalan tal como se espera con su $O(n \log n)$, y lo mismo pasa con Naive y su $O(N^3)$. Sin embargo, hubo dos casos que nos demostraron que quedarse solo con la notación asintótica no basta para explicar el rendimiento real.
 
-Escriba una conclusión breve que interprete los resultados más importantes. Cada afirmación debe estar respaldada por los datos presentados.
+    Por un lado, Patience Sort (que es $O(n \log k)$ dependiendo de la subsecuencia creciente más larga) tuvo tiempos radicalmente distintos dependiendo de si el arreglo venía ordenado al derecho o al revés. Por otro lado, Strassen nos dio la gran sorpresa: aunque en el papel tiene un exponente asintótico mejor, en la práctica fue sistemáticamente más lento que Naive en todo el rango evaluado por culpa del costo constante de sus sumas adicionales de submatrices. Ambos casos respaldan perfecto la premisa central de esta tarea: ir más allá de la fórmula matemática es una obligación si de verdad queremos entender cómo se va a portar un algoritmo en el computador.

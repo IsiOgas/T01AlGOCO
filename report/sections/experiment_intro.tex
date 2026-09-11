@@ -1,5 +1,9 @@
-\begin{mdframed}
-    \textbf{La extensión máxima para esta sección es de media página.}
-\end{mdframed}
+\subsection{Hardware y Software}
 
-Especifique el hardware y software utilizado para realizar los experimentos (por ejemplo, procesador, memoria RAM, sistema operativo, compilador y versión). Incluya una mención breve de los datasets utilizados, los cuales son los descritos en el enunciado de la tarea.
+Para llevar a cabo los experimentos, se utilizó un equipo provisto de un procesador Intel Core i7-11800H (11.\textsuperscript{a} generación, a 2.30GHz) y 32 GB de memoria RAM. Aunque el sistema operativo base de la máquina es Windows 11 Home Single Language, todo el desarrollo, la compilación y la ejecución de los programas en C++ se realizaron en un entorno de Linux. Esto se logró a través del Subsistema de Windows para Linux (WSL), corriendo la distribución Ubuntu 24.04.2 LTS y utilizando el compilador \texttt{g++} en su versión 13.3.0.
+
+\subsection{Datasets y Metodología}
+
+Respecto a los datos, se trabajó exactamente con los conjuntos generados según las especificaciones del enunciado. Para el problema de ordenamiento, probamos arreglos con tamaños que van desde los 10 hasta los 10 millones de elementos ($n \in \{10, 10^3, 10^5, 10^7\}$). Para evaluar cómo reaccionaban los algoritmos frente a distintos escenarios, estos arreglos se crearon en tres configuraciones (ordenados de forma ascendente, descendente y completamente aleatorios) usando dos rangos de valores: el dominio D1 (números del 0 al 9) y el dominio D7 (del 0 a los 10 millones).
+
+Por el lado de la multiplicación de matrices, evaluamos dimensiones cuadradas en potencias de 2, partiendo desde $16 \times 16$ hasta llegar a $1024 \times 1024$ ($N \in \{2^4, 2^6, 2^8, 2^{10}\}$). Estas matrices se armaron con tres estructuras distintas (densas, dispersas y diagonales) y bajo dos dominios numéricos: D0 ($\{0,1\}$) y D10 ($\{0,\dots,9\}$). Finalmente, para asegurar que los resultados fueran consistentes y no se vieran afectados por procesos secundarios del computador, cada combinación exacta de algoritmo y dataset se ejecutó 3 veces, utilizando estas muestras para generar los resultados finales.
